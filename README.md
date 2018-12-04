@@ -38,7 +38,7 @@ Oscillogram of the whole pulse:
 Oscillogram of the rising edge:
 ![Oscillogram of the rising edge](/images/zoomed_in_rising_edge.jpg)
 Oscillogram of the zoomed in pulse:
-![Oscillogram of the zoomed in pulse](/images/zoomed_in_pulse)
+![Oscillogram of the zoomed in pulse](/images/zoomed_in_pulse.jpg)
 Picture of the made and assembled PCB:
 ![Picture of the made and assembled PCB](/images/made.jpg)
 Picture of the PCB connected to oscilloscope and generator:
