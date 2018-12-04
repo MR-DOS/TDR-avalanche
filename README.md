@@ -34,25 +34,24 @@ Connect storage coaxial cable to the STORAGE_COAX port. You should use some 50 O
 ----
 ## Images
 Oscillogram of the whole pulse:
-![Oscillogram of the whole pulse][whole]
+![Oscillogram of the whole pulse](/images/whole_pulse.jpg)
 Oscillogram of the rising edge:
-![Oscillogram of the rising edge][rising]
+![Oscillogram of the rising edge](/images/zoomed_in_rising_edge.jpg)
 Oscillogram of the zoomed in pulse:
-![Oscillogram of the zoomed in pulse][zoomed]
+![Oscillogram of the zoomed in pulse](/images/zoomed_in_pulse)
 Picture of the made and assembled PCB:
-![Picture of the made and assembled PCB][assembled]
+![Picture of the made and assembled PCB](/images/made.jpg)
 Picture of the PCB connected to oscilloscope and generator:
-![Picture of the made and assembled PCB][connected]
+![Picture of the made and assembled PCB](/images/connected.jpg)
 
 ----
 ## Reference
 [AN-94: Slew Rate Verification for Wideband Amplifiers](https://www.analog.com/media/en/technical-documentation/application-notes/an94f.pdf)
+
 [AN-72: A Seven-Nanosecond Comparator for Single Supply Operation](https://www.analog.com/media/en/technical-documentation/application-notes/an72f.pdf)
+
 [Tweet with photo of the etched PCB](https://twitter.com/polasek_petr/status/1063875099940532225)
+
 [Tweet with photos of the etched, drilled and assembled PCB](https://twitter.com/polasek_petr/status/1064328075725426688)
+
 [Tweet with measured output of the circuit](https://twitter.com/polasek_petr/status/1064698462539866112)
-[whole]:/images/whole_pulse.jpg
-[rising]:/images/zoomed_in_rising_edge.jpg
-[zoomed]:/images/zoomed_in_pulse
-[assembled]:/images/made.jpg
-[connected]:/images/connected.jpg
