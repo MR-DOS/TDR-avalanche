@@ -1,4 +1,5 @@
 # TDR-avalanche
+----
 ## Description
 Simple flat-top avalanche pulser with integrated power supply for the avalanche transistor circuit and trigger circuitry. 
 
@@ -30,6 +31,7 @@ Connect the coaxial cable to be measured to the STORAGE_COAX port. The cable MUS
 Connect square wave generator to the SYNC\_IN port.
 Connect storage coaxial cable to the STORAGE_COAX port. You should use some 50 Ohm cable with low losses, ideally some rigid or semirigid cable. I used RG-174 because I had a lot of it on hand and the circuit is tweaked for use with the RG-174 (I used about one meter of the cable which gave me about 8 ns long pulse). Connect the PULSE\_OUT port to anything you want (50 Ohm terminated).
 
+----
 ## Images
 Oscillogram of the whole pulse:
 ![Oscillogram of the whole pulse][whole]
@@ -42,14 +44,15 @@ Picture of the made and assembled PCB:
 Picture of the PCB connected to oscilloscope and generator:
 ![Picture of the made and assembled PCB][connected]
 
+----
 ## Reference
 [AN-94: Slew Rate Verification for Wideband Amplifiers](https://www.analog.com/media/en/technical-documentation/application-notes/an94f.pdf)
 [AN-72: A Seven-Nanosecond Comparator for Single Supply Operation](https://www.analog.com/media/en/technical-documentation/application-notes/an72f.pdf)
 [Tweet with photo of the etched PCB](https://twitter.com/polasek_petr/status/1063875099940532225)
 [Tweet with photos of the etched, drilled and assembled PCB](https://twitter.com/polasek_petr/status/1064328075725426688)
 [Tweet with measured output of the circuit](https://twitter.com/polasek_petr/status/1064698462539866112)
-[whole]:images/whole_pulse.jpg
-[rising]:images/zoomed_in_rising_edge.jpg
-[zoomed]:images/zoomed_in_pulse
-[assembled]:images/made.jpg
-[connected]:images/connected.jpg
+[whole]:/images/whole_pulse.jpg
+[rising]:/images/zoomed_in_rising_edge.jpg
+[zoomed]:/images/zoomed_in_pulse
+[assembled]:/images/made.jpg
+[connected]:/images/connected.jpg
